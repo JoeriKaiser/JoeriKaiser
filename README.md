@@ -4,6 +4,7 @@
   <li>🌱 I’m currently learning Javascript frameworks</li>
   <li>💞️ I’m looking to collaborate on projects that may help me increase my skill level</li>
   <li>📫 How to reach me : joeri.kaiser@hotmail.com or @joeri_kaiser</li>
+  <li><a href="https://www.linkedin.com/in/joeri-kaiser/">Linkedin Profile :)</a></li>
 </ul>
 <hr>
 <h2>This is my tech stack</h2>
@@ -26,5 +27,6 @@
 <hr>
 
 <div style ="margin:0 auto; height: 40px">
+  <p>Gif of a cute cat trying to code :</p>
   <img style="height: 40px; width: 40px;" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e473gyg11u2wglgjuh8fo5ud3t0lw0ulioa0acauwdd&rid=giphy.gif&ct=g" />
 </div>
