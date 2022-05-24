@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Javascript frameworks
 - 💞️ I’m looking to collaborate on projects that may help me increase my skill level
 - 📫 How to reach me : joeri.kaiser@hotmail.com or @joeri_kaiser
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+<!-- 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> -->
