@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on projects that may help me increase my skill level
 - 📫 How to reach me : joeri.kaiser@hotmail.com or @joeri_kaiser
 
-<!---
-JoeriKaiser/JoeriKaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
