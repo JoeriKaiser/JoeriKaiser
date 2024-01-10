@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭️ I'm currently studying as an apprentice at my first job<br>💃️ I'm looking to collaborate on Front-end or Full-stack javascript apps<br>🤝️ I'm looking for help with Test Driven Development<br>🌿️ I'm currently learning React Native, Astro, Jest, GraphQL, CI/CD<br>✉️ Don't hesitate to ping me on LinkedIn,<br>⚡️ Fun Fact: I used to be a bartender !
+🔭️ I'm currently a Junior Developer hired on my first job<br>💃️ I'm looking to collaborate on Front-end or Full-stack javascript and or Rust apps<br>🤝️ I'm looking for help with Test Driven Development<br>🌿️ I'm currently learning Astro, Rust, CI/CD<br>✉️ Don't hesitate to ping me on LinkedIn,<br>⚡️ Fun Fact: I used to be a bartender !
 
 
 ## 🌐 Socials:
