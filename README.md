@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭️ I'm currently a Junior Developer with 2 years of experience looking for a job<br>💃️ I'm looking to collaborate on Front-end or Full-stack javascript, Rust or PHP apps<br>🤝️ I'm looking for help with Test Driven Development<br>🌿️ I'm currently learning Laravel, Astro, Rust, CI/CD<br>✉️ Don't hesitate to ping me on LinkedIn,<br>⚡️ Fun Fact: I used to be a bartender !
+🔭️ I'm currently a Junior Developer with 3 years of experience looking for a job<br>💃️ I'm looking to collaborate on Front-end or Full-stack javascript, Rust or PHP apps<br>🤝️ I'm looking for help with Test Driven Development<br>🌿️ I'm currently learning Laravel, Astro, Rust, CI/CD<br>✉️ Don't hesitate to ping me on LinkedIn,<br>⚡️ Fun Fact: I used to be a bartender !
 
 
 ## 🌐 Socials:
